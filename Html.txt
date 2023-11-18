@@ -1,0 +1,133 @@
+1.Tittle
+<Tittle>web page</Tittle>
+2.icon
+<link rel="icon" href="Image">
+3.Internal
+4.Inline
+5.External
+6.<Img Src="Img" alt="">
+7.Text alighn=center
+8.font-weight=normal;
+9.font-style=Italic;
+10.<link rel="stylesheet" href="style.css">
+11.display:table;
+12.class
+13.Id
+14.Anchor
+<a href="second">
+15.Target Blank
+<a href="Second Page" taget-blank>
+16.Text-decoration:none
+17.# attribute
+<a href="#">
+18.Float concept
+Float:left;
+Float:right;
+.clear{
+clear:both;
+}
+19.Padding
+20.Youtube video
+click share and copy Embeded code paste body section
+21.Google Map
+share and copy Embeded code and paste body section
+22.Google Fonts
+click copy cod and past the code
+23.background-size:cover(full page)
+contain:original size of image
+Auto:center part of Image
+24.background-repeat:repeat-x;
+background-repeat:no repeat
+background-repeat:repeat-1;
+25.position:absolute;
+26.position:fixed;
+27.border:10px solid red
+28.<ol>
+<li>on</li>
+<li>on</li>
+</ol>
+<ul>
+<li>on</li>
+<li>on</li>
+</ul>
+29.display:inline;
+dispaly:none;
+visibility:hidden;
+30.list-style:none;
+31.Hover
+li:hover{content}
+32.cursor:pointer;
+33.cursor:progress;
+34.Transition:2s;
+35.Filter:brightness(50%);
+36.margin:left,
+margin:right,
+margin:center,
+37.border-radius:25%;
+38.display:block;
+display:none;
+39.@media only screen and(max-width:800px)
+40.Transform:rotate(40deg);
+Transform:rotate x(30deg);
+Transform:rotate y(40deg);
+Transform:scale(1.5);
+41.Text shadow:2px 2px 2px red
+42.opacity:0.1;(content to the miled);
+43.Table
+table{
+border-collapse:collapse;(Ella Table um Orey Table ahh use pananum)
+}
+<table border ="2px">
+<tr>
+<th>s.no</th>
+<th>head</th>
+</tr>
+<tr>
+<td>1</td>
+<td>Anbu</td>
+</tr>
+44.Operators
+&&,||,!=
+45.Z-index
+46.flex-direction:row;
+justify-content:space between;
+47.background-Image:lineargradient(to right,red,green,blue);
+48.marque technic
+<marquee direction='right' scrollamount='1'>Hello</marquee>
+49.Image map concept 
+Image map.org
+50.text-transform:Capitalize;
+text-transform:Uppercase;
+text-transform:lowercase;
+51.1em=100%;
+2em=200%;
+1rem=10%
+2rem=20%;
+52.h1:Active
+h1:visibility
+52.outline:none
+53.mvc=model view controller
+view=Front end view
+Model=Database layer
+Controller=Intermediator
+54.ParseInt - It is used for string value converted into integer value
+55.for(var i=1;i<=100;i++)
+56. while
+<script>
+var i=0;
+while(i<100){
+console.log(i);
+i++;
+}
+</script>
+
+57.Do While
+<script>
+var i=0;
+do{
+console.log(i);
+i++;
+}
+while(i<100);
+</script>
+
